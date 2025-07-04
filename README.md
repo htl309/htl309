@@ -7,7 +7,7 @@
   <a href="https://blog.csdn.net/qq_46348003?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-FF4D00?style=plastic&logo=csdn&logoColor=white" /></a>
 </p>
 
-<p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href="https://ayjcsgm.github.io/resume/">动态简历</a> / <a href="https://www.brennanbrown.ca/project">简历PDF</a></b> :octocat: </p>
+<p align="center"> :octocat: <b><a href="https://htl309.github.io/">Website</a> / <a href="https://ayjcsgm.github.io/resume/">动态简历</a> / <a href="https://www.brennanbrown.ca/project">简历PDF</a></b> :octocat: </p>
 
 ## About Me:
 
@@ -19,7 +19,7 @@
 
 ## Technologies I'm Learning :books:
 
-#### Tech:![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/-Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
