@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Zheng Qi! :stars:</h1>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/htl309)  
-[![Gitee](https://img.shields.io/badge/Gitee-FF3B3F?style=plastic&logo=gitee&logoColor=white)](https://gitee.com/htl309)  
-[![知乎](https://img.shields.io/badge/知乎-0084FF?style=plastic&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/hui-tai-lang-309)  
-[![CSDN](https://img.shields.io/badge/CSDN-FF4D00?style=plastic&logo=csdn&logoColor=white)](https://blog.csdn.net/qq_46348003?spm=1000.2115.3001.5343)
+​																				[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/htl309)  [![Gitee](https://img.shields.io/badge/Gitee-FF3B3F?style=plastic&logo=gitee&logoColor=white)](https://gitee.com/htl309)  [![知乎](https://img.shields.io/badge/知乎-0084FF?style=plastic&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/hui-tai-lang-309)  [![CSDN](https://img.shields.io/badge/CSDN-FF4D00?style=plastic&logo=csdn&logoColor=white)](https://blog.csdn.net/qq_46348003?spm=1000.2115.3001.5343)
 
 <p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href=" https://ayjcsgm.github.io/resume/">动态简历</a> / <a href="https://www.brennanbrown.ca/project">简历PDF</a></b> :octocat: </p>
 
