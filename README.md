@@ -9,53 +9,22 @@
 
 <p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href="https://ayjcsgm.github.io/resume/">动态简历</a> / <a href="https://www.brennanbrown.ca/project">简历PDF</a></b> :octocat: </p>
 
-## About Me :wave:
+## About Me:
 
-Hey there! :smile: My name is Brennan. I'm a 24-year-old Métis web developer and blogger from Winnipeg, Manitoba and currently reside in Calgary, Alberta. I just finished a Full Stack Developer Program at [EvolveU](https://www.evolveu.ca/), and I'm looking for open-source projects to contribute to and people to collaborate with! I love creating and tinkering with small, static websites using frameworks like Jekyll or Hugo. I'm a big proponent of putting an emphasis on accessibility and the [A11y project](https://www.a11yproject.com/) in web development.
+🎓 我01年出生，山东大学软件工程系的硕士在读，研究方向为 **计算机图形学**，主要关注图形渲染、几何建模与可视化等相关技术。
 
-I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [an e-mail](mailto:mail@brennanbrown.ca) if that sounds like your cup of tea. :coffee:
+💻 编程方面以 **C++** 为主，熟悉图形学中的常用算法与基础理论，例如光栅化、几何变换、Bezier 曲线、光照模型等。同时也具备一定的图形引擎开发和项目实现经验。
 
-<!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
+🏀 生活中，我喜欢打篮球、打王者荣耀、散步和吃各种水果，追求动静结合的生活节奏。
 
 ## Technologies I'm Learning :books:
 
-#### Software:
+#### Tech:
 
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
-![Ruby](http://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffe8e8)
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
+![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![Vulkan](https://img.shields.io/badge/-Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
+![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![OpenCascade](https://img.shields.io/badge/-OpenCascade-1D3F73?style=flat-square&logoColor=white)
 
-#### Front-end:
-
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Rails](http://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=ffffff)
-![Jekyll](http://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=ffffff)
-
-
-#### Back-end:
-
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=ffffff)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
-
-
-#### Editors and Operating Systems:
-
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
-![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
-![FreeBSD](http://img.shields.io/badge/-Free%20BSD-AB2B28?style=flat-square&logo=freebsd&logoColor=ffffff)
-![GNU Emacs](http://img.shields.io/badge/-GNU%20Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=ffffff)
-![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
-
-<hr/>
-
-:star: From [@BrennanBrown](https://github.com/brennanbrown)
+#### Projects：
