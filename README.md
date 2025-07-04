@@ -1,15 +1,11 @@
 <h1 align="center">Hi, I'm Zheng Qi! :stars:</h1>
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brennankbrown)](https://twitter.com/brennankbrown)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://linkedin.com/in/brennankbrown/)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@brennanbrown)](https://medium.com/@brennanbrown)
-[![WordPress Blog](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=WordPress&logoColor=white&link=https://wandernotebook.com)](https://wandernotebook.com)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@brennanbrown.ca)](mailto:mail@brennanbrown.ca)
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown)](https://ko-fi.com/brennanbrown)
-![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)
-![Open Source](http://img.shields.io/badge/-Open%20Source%20Fan-3DA639?style=flat&logo=open-source-initiative&logoColor=ffffff)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/htl309)  
+[![Gitee](https://img.shields.io/badge/Gitee-FF3B3F?style=plastic&logo=gitee&logoColor=white)](https://gitee.com/htl309)  
+[![知乎](https://img.shields.io/badge/知乎-0084FF?style=plastic&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/hui-tai-lang-309)  
+[![CSDN](https://img.shields.io/badge/CSDN-FF4D00?style=plastic&logo=csdn&logoColor=white)](https://blog.csdn.net/qq_46348003?spm=1000.2115.3001.5343)
 
-<p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://www.brennanbrown.ca/project">Projects</a></b> :octocat: </p>
+<p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href=" https://ayjcsgm.github.io/resume/">动态简历</a> / <a href="https://www.brennanbrown.ca/project">简历PDF</a></b> :octocat: </p>
 
 ## About Me :wave:
 
