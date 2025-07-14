@@ -7,7 +7,7 @@
   <a href="https://blog.csdn.net/qq_46348003?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-FF4D00?style=plastic&logo=csdn&logoColor=white" /></a>
 </p>
 
-<p align="center"> :octocat: <b><a href="https://htl309.github.io/">Website</a> / <a href="https://htl309.github.io/resume/">动态简历</a> / <a href="https://github.com/htl309/htl309/blob/master/%E9%83%91%E9%BA%92%E7%AE%80%E5%8E%86.pdf">简历PDF</a></b> :octocat: </p>
+<p align="center"> :octocat: <b><a href="https://htl309.github.io/">Website</a> / <a href="https://htl309.github.io/resume/">动态简历</a> / <a href="https://github.com/htl309/htl309/raw/master/%E9%83%91%E9%BA%92%E7%AE%80%E5%8E%86.pdf">简历PDF</a></b> :octocat: </p>
 
 ## About Me:
 
